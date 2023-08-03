@@ -31,11 +31,15 @@
 - CoreBluetooth
 - GraphQL
 
-# Chingari
+# Chingari   <a href="https://apps.apple.com/us/app/chingari-meet-new-friends/id1526811171"><img src="https://camo.githubusercontent.com/5388253c83263966eb00e5dd9e913a41f564a62944054b0aa3f4a2ff7fcf66d8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170702b53746f726526636f6c6f723d304439364636266c6f676f3d4170702b53746f7265266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
+
 Chingari is the fastest-growing on-chain social app, where you can create captivating videos, dance to your favorite tunes, and elevate your content with exciting AR filters. Chingari's features go beyond videos, with Chingari, you can also enjoy the unique features of private calls, allowing you to connect one-on-one with friends and loved ones.
 
 I'm extremely proud to be part of the core team of the App. I have worked  Circles feature, which contains a feed showcasing text, images, and video posts.
- 
+
+
+
+
 <p align="center">
 <img src="images/chingari/1.png" width="230"  title="home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chingari/2.png" width="230" title="call">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chingari/3.png" width="226" title="chat">
 </p>
