@@ -6,7 +6,7 @@
 
 <div style="display:flex;justify-content:center;">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ROHIT__PRADHAN?logo=twitter&style=for-the-badge)](https://twitter.com/ROHIT__PRADHAN)
+<a href="https://github.com/rohitpradhan/resume/blob/main/Rohit_Pradhan_iOS_8.9.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:rohitpradhan60@gmail.com"><img src="https://img.shields.io/badge/Email-Rohit-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rohit-pradhan-173a8b53/" target="_blank"><img src="https://img.shields.io/badge/linkedin-RohitPradhan-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
  </div>
 
