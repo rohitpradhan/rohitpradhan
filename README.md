@@ -31,6 +31,14 @@
 - CoreBluetooth
 - GraphQL
 
+# Chingari
+Chingari is the fastest-growing on-chain social app, where you can create captivating videos, dance to your favorite tunes, and elevate your content with exciting AR filters. Chingari's features go beyond videos, with Chingari, you can also enjoy the unique features of private calls, allowing you to connect one-on-one with friends and loved ones.
+
+I'm extremely proud to be part of the core team of the App. I have worked  Circles feature, which contains a feed showcasing text, images, and video posts.
+ 
+<p align="center">
+<img src="images/chingari/1.png" width="230"  title="home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chingari/2.png" width="230" title="call">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chingari/3.png" width="226" title="chat">
+</p>
 
 <!--
 **rohitpradhan/rohitpradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
