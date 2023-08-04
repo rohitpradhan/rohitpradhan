@@ -53,6 +53,16 @@ This app is offered by Standard chartered bank to Bukalapak
 <img src="images/bukatabungan/1.png" width="230"  title="home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bukatabungan/2.png" width="230" title="call">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/bukatabungan/3.png" width="226" title="chat">
 </p>
 
+
+# SC Mobile Singapore   <a href="https://apps.apple.com/sg/app/sc-mobile-singapore/id367337298"><img src="https://camo.githubusercontent.com/5388253c83263966eb00e5dd9e913a41f564a62944054b0aa3f4a2ff7fcf66d8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170702b53746f726526636f6c6f723d304439364636266c6f676f3d4170702b53746f7265266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
+
+This app is offered by Standard chartered bank for Singapore. You can Save, spend and manage your money just from one app. 
+
+<p align="center">
+<img src="images/sc/1.png" width="230"  title="home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sc/2.png" width="230" title="call">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sc/3.png" width="226" title="chat">
+</p>
+
+
 <!--
 **rohitpradhan/rohitpradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
